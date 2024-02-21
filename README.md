@@ -2,6 +2,8 @@
 
 ### Nesse arquivo do GitHub irá conter arquivos (slides, códigos, exemplos) desenvolvidos durante uma série de vídeos de um curso de Web Scraping com Python.
 
+<img src="https://lh3.googleusercontent.com/guiLI7qs3GOZWmCEriaQgiALlaifI6EdmT0SfzbBOY6TvksL_DoIzW0WEoYcO-moCDyAG84_-_P1xAPGqGmN0w-fPlFonRJQqe6cX4qs9R-A5qYquqba7biPndxRGbfIAol1V6UL" >
+
 ## **Conteúdo:**
 ### 1. Introdução ao HTML
 ### 2. Inspecionando sites
